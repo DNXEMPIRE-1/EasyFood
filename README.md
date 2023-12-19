@@ -1,9 +1,25 @@
-# EasyFood
-EasyFood is an app that makes making food easier and gives you full information about the selected meal including instructions of how to make that meal provided by a video.
+# EasyFood 🍲📱
+
+## Overview
+
+Welcome to EasyFood! This app is designed to make the process of cooking easier by providing detailed information about selected meals, including step-by-step instructions through instructional videos.
+
+## Features
+
+- **Meal Selection 🍽️:**
+  - Browse and choose from a variety of meals to prepare.
+
+- **Detailed Information 📋:**
+  - Get comprehensive information about each selected meal, including ingredients and nutritional details.
+
+- **Video Instructions 🎥:**
+  - Access step-by-step cooking instructions through instructional videos for a more visual cooking experience.
+
+- **Favorites and History ❤️🕰️:**
+  - Mark favorite meals for quick access and view cooking history.
+
 
 # Preview
-download apk app : https://www.mediafire.com/file/e2pteuagpozgdtm/Easy_food.apk/file
-
 ![1](https://user-images.githubusercontent.com/78867217/143778911-20c19914-7f67-41c9-ab0f-0a609f9f07e7.jpg)
 
 ![2](https://user-images.githubusercontent.com/78867217/143778942-5ec4c4fc-2e02-4acc-86f8-7bd69c4837b1.jpg)
